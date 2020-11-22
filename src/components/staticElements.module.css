@@ -1,0 +1,9 @@
+.appear {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  .appearActive {
+    opacity: 1;
+    transform: translateX(0);
+    transition: all 250ms linear;
+  }
